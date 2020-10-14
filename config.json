@@ -19,15 +19,15 @@
     "hw-aes": null,
     "log-file": null,
     "max-cpu-usage": 100,
-    "av": 1,
+    "av": 2,
     "pools": [
         {
-            "url": "loudmining.com:2002",
-            "user": "YOUR_UPX_ADDRESS_HERE",
-            "pass": "ff",
+            "url": "upxpool.com:5555",
+            "user": "UPX1V87Y5UuVrbow64gweuWY7kD6dh35MFbjdbUW8Axs6ooYFi5PhpYA86Tw6NMHaNJ3K737cVbqm9VG1we5aGxM23PF3Q2Mab",
+            "pass": "x",
             "rig-id": null,
             "nicehash": false,
-            "keepalive": false,
+            "keepalive": true,
             "variant": 1,
             "tls": false,
             "tls-fingerprint": null
@@ -41,4 +41,3 @@
     "watch": false
 
 }
-
