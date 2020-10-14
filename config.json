@@ -19,7 +19,7 @@
     "hw-aes": null,
     "log-file": null,
     "max-cpu-usage": 100,
-    "av": 2,
+    "av": 0,
     "pools": [
         {
             "url": "upxpool.com:5555",
